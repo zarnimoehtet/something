@@ -1,0 +1,47 @@
+{"daily": [
+{
+"morning_d2": "46",
+"evening_d2": "43",
+"nine_modern": "38",
+"nine_internet": "72",
+"two_modern": "41",
+"two_internet": "38",
+"datetime": "26/06/2020 (Fri)"
+},
+{
+"morning_d2": "75",
+"evening_d2": "83",
+"nine_modern": "85",
+"nine_internet": "56",
+"two_modern": "01",
+"two_internet": "01",
+"datetime": "25/06/2020 (Thu)"
+},
+{
+"morning_d2": "03",
+"evening_d2": "35",
+"nine_modern": "22",
+"nine_internet": "58",
+"two_modern": "93",
+"two_internet": "91",
+"datetime": "24/06/2020 (Wed)"
+},
+{
+"morning_d2": "91",
+"evening_d2": "31",
+"nine_modern": "95",
+"nine_internet": "27",
+"two_modern": "61",
+"two_internet": "45",
+"datetime": "23/06/202 (Tue)"
+},
+{
+"morning_d2": "22",
+"evening_d2": "82",
+"nine_modern": "05",
+"nine_internet": "00",
+"two_modern": "89",
+"two_internet": "28",
+"datetime": "22/06/2020 (Mon)"
+}
+]}
